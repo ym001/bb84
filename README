@@ -1,1 +1,9 @@
-protocole BB84 python
+L’objet de ce projet est de simuler un transfert de clé cryptographique
+par l’intermédiaire de système quantique entre deux correspondants usuel-
+lement appelés Alice et Bob . On montrera alors comment la présence d’un
+espion, traditionnellement appelé Eve, peut être très facilement détecté. Une
+comparaison des différentes méthodes de réconciliation sera mise en oeuvre.
+
+le rapport du projet est consultable à cette adresse.
+
+https://www.dropbox.com/l/6kvm3W9ewee93bZ3P0ywa8
